@@ -4,7 +4,7 @@ Created on Thu Oct 22 16:58:51 2020
 
 @author: Xingyuan Xu
 """
-
+#用于切片
 import cv2 as cv
  
 cap =cv.VideoCapture("F:/FastAI/paper/code/gesture/video/video2/HoldpenL.mp4")
